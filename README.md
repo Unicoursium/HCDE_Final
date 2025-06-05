@@ -2,17 +2,20 @@
 This is our HCDE(Human Centered Design Engineering) Project, and here's the description.
 
 I am **Unico**, and I was responsible for the **entire prototyping process** of this project.  
-All aspects of the system—including **hardware wiring, GPIO setup, physical assembly, interaction logic programming, modeling, 3D rendering, sound integration, manual fabrication, and part of visual refinement**—were completed by me.  
+All aspects of the system—including **hardware wiring, GPIO setup, physical assembly, interaction logic programming, modeling, 3D rendering, sound integration, manual fabrication, and part of visual refinement**—were completed by my groupmates and me.  
 This prototype is built on a Raspberry Pi platform, combining **multistage interaction states, real-time button/LED control, audio feedback, and multiplayer coordination** to deliver a complete, immersive, and reusable interactive experience.
 
 ## 🤝 Team Contributions
 
 While I was responsible for the full implementation of this prototype, I would like to acknowledge the valuable contributions of my teammates:
 
-- **Zipei Weng** – Designed the overall game mechanics and core interaction logic.
-- **Stanley Liu** – Independently created the physical form and aesthetic design of the Lo-Fi prototype.
-- **Eunny Huang** – Assisted in the construction and detailing of both the Lo-Fi model and this interactive system.
-- **Siyi Yu** – Helped test the Lo-Fi prototype and gathered user feedback for iterative improvement.
+I cannot reveal their names unless they wish.
+
+- Designed the overall game mechanics and core interaction logic.
+- Independently created the physical form and aesthetic design of the Lo-Fi prototype.
+- Assisted in the construction and detailing of both the Lo-Fi model and this interactive system.
+- Helped test the Lo-Fi prototype and gathered user feedback for iterative improvement.
+- Completed the production of the presentation PPT and Delivery Report.
 
 ---
 # 💡 Magic Fountain
