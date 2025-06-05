@@ -2,7 +2,7 @@
 This is our HCDE(Human Centered Design Engineering) Project, and here's the description.
 
 I am **Unico**, and I was responsible for the **entire prototyping process** of this project.  
-All aspects of the system—including **hardware wiring, GPIO setup, physical assembly, interaction logic programming, modeling, 3D rendering, sound integration, manual fabrication, and part of visual refinement**—were completed by me and my groupmates.  
+All aspects of the system—including **hardware wiring, GPIO setup, physical assembly, interaction logic programming, modeling, 3D rendering, sound integration, manual fabrication, and part of visual refinement**—were completed by my groupmates and me.  
 This prototype is built on a Raspberry Pi platform, combining **multistage interaction states, real-time button/LED control, audio feedback, and multiplayer coordination** to deliver a complete, immersive, and reusable interactive experience.
 
 ## 🤝 Team Contributions
